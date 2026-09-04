@@ -1,16 +1,34 @@
-## Hi there 👋
+<h1 align="center">👋 JayeshGamer</h1>
 
-<!--
-**JayeshGamer/JayeshGamer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <a href="https://github.com/JayeshGamer">
+    <img alt="GitHub Profile" src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github">
+  </a>
+  <a href="https://github.com/JayeshGamer/JayeshGamer">
+    <img alt="Profile Repository" src="https://img.shields.io/badge/Repository-JayeshGamer%2FJayeshGamer-0969da?style=for-the-badge">
+  </a>
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## ✨ Welcome
+
+Welcome to the **profile README** for [@JayeshGamer](https://github.com/JayeshGamer).
+
+This repository (`JayeshGamer/JayeshGamer`) is the special repository that powers the profile page README on GitHub.
+
+## 📌 About this profile
+
+- Central space for profile-level updates and presentation.
+- Built to stay accurate with publicly verifiable GitHub context.
+- Focused on clean, simple, and modern GitHub-friendly Markdown.
+
+## 🚀 What to expect here
+
+- Evolving profile content over time
+- Links to public activity through GitHub
+- A concise snapshot of this profile’s landing page
+
+## 🔗 Profile
+
+- GitHub: https://github.com/JayeshGamer
