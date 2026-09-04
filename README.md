@@ -1,4 +1,4 @@
-<h1 align="center">👋 JayeshGamer</h1>
+<h1 align="center">👋 JayeshMandloi</h1>
 
 <p align="center">
   <a href="https://github.com/JayeshGamer">
